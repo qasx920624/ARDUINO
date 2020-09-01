@@ -9,13 +9,18 @@ void loop()------>重複執行,主程式位置
 第一個指令
 pinMode(腳位,INPUT/OUTPUT);
 腳位模式設定 設定輸入或輸出
+初始值是0
+
+------------------------------------------------------
+
+第一個程式(LED閃爍
 void loop()
 {
   digitalWrite(腳位,HIGH);
   delay(500);
   digitalWrite(腳位,LOW);
-  delay
-}---------------------->LED閃爍
+  delay;
+}
 
 if OUTPUT 輸出 LOW----->二極體有導通(發亮
 if OUTPUT 輸出 HIGH---->二極體不導通(不亮
