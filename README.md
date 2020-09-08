@@ -16,12 +16,12 @@ pinMode(腳位,INPUT/OUTPUT);</p>
 第一個程式(LED閃爍</p>
 ```c++
 {
-void loop()</p>
-{</p>
-  digitalWrite(腳位,HIGH);</p>
-  delay(500);</p>
-  digitalWrite(腳位,LOW);</p>
-  delay;</p>
+void loop()
+{
+  digitalWrite(腳位,HIGH);
+  delay(500);
+  digitalWrite(腳位,LOW);
+  delay;
 }
 ```
 </p>
