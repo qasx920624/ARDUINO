@@ -1,4 +1,4 @@
-# ARDUINO
+# ARDUINO 第一篇
 learn arduino   </p>
 學習基礎ARDUINO 的程式設計</p>
 pinMode  腳位模式</p>
