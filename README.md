@@ -14,7 +14,8 @@ pinMode(腳位,INPUT/OUTPUT);</p>
 </p>
 </p>
 第一個程式(LED閃爍</p>
-
+```c++
+{
 void loop()</p>
 {</p>
   digitalWrite(腳位,HIGH);</p>
@@ -25,7 +26,7 @@ void loop()</p>
 </p>
 if OUTPUT 輸出 LOW----->二極體有導通(發亮</p>
 if OUTPUT 輸出 HIGH---->二極體不導通(不亮</p>
-
+}
 ------------------------------------------------------
 電路圖如下:
 ![image](https://github.com/qasx920624/ARDUINO/blob/master/DE7C66F1-AEA6-4C9A-8054-684F44AC2B0B.jpeg)
