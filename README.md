@@ -14,6 +14,7 @@ pinMode(腳位,INPUT/OUTPUT);</p>
 </p>
 </p>
 第一個程式(LED閃爍</p>
+
 void loop()</p>
 {</p>
   digitalWrite(腳位,HIGH);</p>
