@@ -16,7 +16,7 @@ pinMode(腳位,INPUT/OUTPUT);</p>
 第一個程式(LED閃爍</p>
 ```c++
 
-{
+
 void loop()
 {
   digitalWrite(腳位,HIGH);
