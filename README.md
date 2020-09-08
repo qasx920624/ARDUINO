@@ -22,11 +22,12 @@ void loop()</p>
   delay(500);</p>
   digitalWrite(腳位,LOW);</p>
   delay;</p>
-}</p>
+}
+```
 </p>
 if OUTPUT 輸出 LOW----->二極體有導通(發亮</p>
 if OUTPUT 輸出 HIGH---->二極體不導通(不亮</p>
-}
+
 ------------------------------------------------------
 電路圖如下:
 ![image](https://github.com/qasx920624/ARDUINO/blob/master/DE7C66F1-AEA6-4C9A-8054-684F44AC2B0B.jpeg)
